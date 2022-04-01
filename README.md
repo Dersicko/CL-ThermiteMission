@@ -5,12 +5,14 @@ Thermite Mission
 Preview:
 
 This script is fully open source. the only thing I want is please do not resell that, im not asking for a lot here.
+Tasted On 'onsync on' And With Game Build Of 2372 Could Have Problems With 'onesync infinity'
 
 Features:
-- StandAlone Police Alert Included
-- You Can Change Almost Everything Via Config File
-- Discord Logs
-- Cooldown
+- Police Alert Included
+- Easy Configuration
+- Discord Logs Included
+- CoolDowns
+- Dynamic Cutscenes
 - And More
 
 Dependencies
