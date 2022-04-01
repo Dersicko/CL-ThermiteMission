@@ -2,7 +2,7 @@
 
 Thermite Mission
 
-Preview:
+Preview: https://youtu.be/17SQQ7hgUww
 
 This script is fully open source. the only thing I want is please do not resell that, im not asking for a lot here.
 Tasted On 'onsync on' And With Game Build Of 2372 Could Have Problems With 'onesync infinity'
