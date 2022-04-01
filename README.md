@@ -25,7 +25,7 @@ Config:
 ![image](https://user-images.githubusercontent.com/96447671/161264710-f5d74b83-8456-47fd-8de0-30e133de4486.png)
 
 Cutscene: 
-![image](https://user-images.githubusercontent.com/96447671/161264760-4e5440e9-c4f3-43f4-af67-1c8b41347d1b.png)
+![image](https://user-images.githubusercontent.com/96447671/161265457-bc1a0628-abe4-4ce7-b1a2-0f559bc56330.png)
 
 Discord Logs:
 ![image](https://user-images.githubusercontent.com/96447671/161264926-fe34d5a0-5388-410d-bcd6-a5f52ff98932.png)
