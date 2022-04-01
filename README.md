@@ -15,9 +15,9 @@ Features:
 - Dynamic Cutscenes
 - And More
 
-Dependencies
-QBCore Framework
-Game Build Must Be At Least 2189
+Dependencies:
+- QBCore Framework
+- Game Build Must Be At Least 2189
 
 Photos:
 
